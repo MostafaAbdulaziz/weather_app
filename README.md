@@ -1,7 +1,7 @@
 ## Weather App
 
 ### Description of app :
-This application gets the weather for a city, whether the current weather or Today's forecast, by searching for the city name. It designs some screens to receive weather data from API and uses a clean structure to organize files and code.
+This application gets the weather for a city, whether the current weather or Today's forecast, by searching for the city name and using the clean architecture to organize the files and code.
 
 <br>
 <div align="center">
