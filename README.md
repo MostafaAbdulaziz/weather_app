@@ -10,7 +10,7 @@ This application gets the weather for a city, whether the current weather or Tod
 
 ## 🙋‍♂️ Uses:
 
-- State Management is Bloc(cubit) to separate design from business logic.
+- State Management is Cubit(Bloc) to separate design from business logic.
 
 - Use API to get weather data
 
